@@ -2,6 +2,8 @@
 Eugene Ku (euku@ucsd.edu)
 B12 Yusu Wang, Gal Mishne
 
+![image](https://github.com/Eugene29/MA5/assets/52263376/7ac4726b-5965-4ef1-a1b5-17988668683b)
+
 #### 1. What is the most interesting topic covered in your domain this quarter?
 The most interesting topic that our domain capstone has covered so far is Graph Transformer.
 #### 2. Describe a potential investigation you would like to pursue for your Quarter 2 Project.
